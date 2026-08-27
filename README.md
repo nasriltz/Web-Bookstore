@@ -63,5 +63,5 @@ $koneksi = mysqli_connect($host, $user, $pass, $db);
 Jalankan AplikasiBuka browser dan akses alamat berikut:Plaintexthttp://localhost/Web-Bookstore
 🔑 Kredensial Testing DefaultAksesUsernamePasswordAdminadminadmin123UserDapat mendaftar melalui halaman register.php
 
-👨‍💻 PengembangDikembangkan sebagai proyek portofolio aplikasi web berbasis Native PHP.
+👨‍💻 Dikembangkan sebagai proyek portofolio aplikasi web berbasis Native PHP.
 
