@@ -51,7 +51,7 @@ Web-Bookstore/
 ├── reset.php               # Halaman reset kata sandi
 ├── scriptmodal.js          # Skrip JS untuk Modal interaktif & Live Search
 ├── tambah_buku.php         # Form penambahan buku baru
-└── toko_buku.sql            # Skrip skema & data awal basis data
+└── toko_buku.sql           # Skrip skema & data awal basis data
 
 🚀 Panduan Penggunaan & Instalasi LokalPrasyaratWeb Server Lokal (XAMPP, Laragon, atau WAMP)PHP versi 7.4 ke atasDatabase Engine MySQL / MariaDBLangkah InstalasiClone RepositoriBashgit clone [https://github.com/username-anda/Web-Bookstore.git](https://github.com/username-anda/Web-Bookstore.git)
 Pindahkan folder proyek ini ke dalam direktori htdocs (XAMPP) atau www (Laragon).Impor Basis DataBuka browser dan masuk ke phpMyAdmin (http://localhost/phpmyadmin).Buat database baru bernama web_bookstore.Impor berkas database.sql ke dalam database tersebut.Konfigurasi KoneksiBuka berkas koneksi.php dan pastikan kredensial sesuai dengan server lokal Anda:PHP$host = "localhost";
